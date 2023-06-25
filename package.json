@@ -1,0 +1,11 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "first experience",
+  "type": "module",
+  "scripts": {
+    "start": "node src/start.js"
+  },
+  "author": "Dzmitry Yesis",
+  "license": "ISC"
+}
